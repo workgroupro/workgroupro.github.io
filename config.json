@@ -2,7 +2,7 @@
     "title":"Blog Title",
     "subTitle":"Blog description",
     "avatarUrl":"https://huw.me/favicon.svg",
-    "homeUrl":"workgroupro.github.io",
+    "homeUrl":"https://workgroupro.github.io",
     "onePageListNum":15,
     "indexStyle":"<link href='https://workgroupro.github.io/style.css' rel='stylesheet' />",
     "GMEEK_VERSION":"last"
