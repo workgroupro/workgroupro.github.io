@@ -1,0 +1,9 @@
+{
+    "title":"Hello World",
+    "subTitle":"Blog description",
+    "avatarUrl":"https://icp.me/assets/favicon.ico",
+    "homeUrl":"https://workgroupro.github.io",
+    "onePageListNum":15,
+    "indexStyle":"<link href='https://workgroupro.github.io/style.css' rel='stylesheet' />",
+    "GMEEK_VERSION":"last"
+}
