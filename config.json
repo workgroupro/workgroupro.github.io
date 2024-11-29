@@ -1,10 +1,9 @@
 {
-    "title":"TIANTIAN",
-    "subTitle":"AI是人类制造的玩具",
-    "avatarUrl":"https://tiantian.cn/favicon.svg",
-    "homeUrl":"https://tiantian.cn",
+    "title":"Blog Title",
+    "subTitle":"Blog description",
+    "avatarUrl":"https://huw.me/favicon.svg",
+    "homeUrl":"workgroupro.github.io",
     "onePageListNum":15,
-    "indexStyle":"<link href='https://tiantian.cn/tiantian.css' rel='stylesheet' />",
+    "indexStyle":"<link href='https://workgroupro.github.io/style.css' rel='stylesheet' />",
     "GMEEK_VERSION":"last"
-}
 }
