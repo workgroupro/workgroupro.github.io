@@ -5,6 +5,6 @@
     "homeUrl":"https://workgroupro.github.io",
     "onePageListNum":15,
     "indexStyle":"<link href='https://workgroupro.github.io/style.css' rel='stylesheet' />",
-                 "<link href='https://cdn.jsdelivr.net/npm/@primer/css@21.5.1/dist/primer.min.css' rel='stylesheet' />",
+    "indexStyle":"<link href='https://cdn.jsdelivr.net/npm/@primer/css@21.5.1/dist/primer.min.css' rel='stylesheet' />",
     "GMEEK_VERSION":"last"
 }
