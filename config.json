@@ -4,6 +4,6 @@
     "avatarUrl":"honor.svg",
     "homeUrl":"https://workgroupro.github.io",
     "onePageListNum":15,
-    "indexStyle":"<link href='allcdn.css' rel='stylesheet' />",
+    "indexStyle":"<link href='style.css' rel='stylesheet' />",
     "GMEEK_VERSION":"last"
 }
