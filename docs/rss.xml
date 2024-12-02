@@ -1,4 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Hello World </title><link>https://workgroupro.github.io</link><description>Blog description</description><copyright>Hello World </copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>honor.svg</url><title>avatar</title><link>https://workgroupro.github.io</link></image><lastBuildDate>Sun, 01 Dec 2024 11:46:22 +0000</lastBuildDate><managingEditor>Hello World </managingEditor><ttl>60</ttl><webMaster>Hello World </webMaster><item><title>测试</title><link>https://workgroupro.github.io/post/ce-shi.html</link><description>测试 夜间模式&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Hello World </title><link>https://workgroupro.github.io</link><description>Blog description</description><copyright>Hello World </copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>honor.svg</url><title>avatar</title><link>https://workgroupro.github.io</link></image><lastBuildDate>Mon, 02 Dec 2024 10:41:15 +0000</lastBuildDate><managingEditor>Hello World </managingEditor><ttl>60</ttl><webMaster>Hello World </webMaster><item><title>Yeah  theme </title><link>https://workgroupro.github.io/post/Yeah%20%20theme%20.html</link><description>主题终于好了！也不靠左 居中了 &#13;
+&#13;
+目前比较喜欢的主题，&#13;
+&#13;
+比jekyll方便些 不用编辑MD&#13;
+&#13;
+用自带的Issues&#13;
+&#13;
+主题 https://github.com/Meekdai&#13;
+&#13;
+。</description><guid isPermaLink="true">https://workgroupro.github.io/post/Yeah%20%20theme%20.html</guid><pubDate>Mon, 02 Dec 2024 10:40:47 +0000</pubDate></item><item><title>测试</title><link>https://workgroupro.github.io/post/ce-shi.html</link><description>测试 夜间模式&#13;
 更换CSS链接&#13;
 添加TIANTIANCSS。</description><guid isPermaLink="true">https://workgroupro.github.io/post/ce-shi.html</guid><pubDate>Fri, 29 Nov 2024 12:36:05 +0000</pubDate></item><item><title>hello world</title><link>https://workgroupro.github.io/post/hello%20world.html</link><description>helloworld。</description><guid isPermaLink="true">https://workgroupro.github.io/post/hello%20world.html</guid><pubDate>Fri, 29 Nov 2024 11:33:03 +0000</pubDate></item></channel></rss>
