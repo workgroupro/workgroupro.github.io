@@ -6,7 +6,7 @@
     "homeUrl":"https://workgroupro.github.io",
     "startSite":"11/11/2024",
     "onePageListNum":15,
-    "singlePage":["link","about"],
+    "singlePage":["link","domain","about"],
     "primerCSS":"<link href='https://cdn.jsdelivr.net/npm/@primer/css@21.5.1/dist/primer.min.css' rel='stylesheet' />",
     "script":"<script src='https://workgroupro.github.io/plugins/GmeekTOC.js'></script>",
     "bottomText":"❤️ 转载文章请注明出处，谢谢！❤️",
